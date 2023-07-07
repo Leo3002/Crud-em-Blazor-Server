@@ -1,2 +1,2 @@
 # Crud-em-Blazor-Server
-o Git hub não conseguiu colocar os arquivos então eu coloquei em zip.
+Um site que realiza um CRUD com o banco de dados SQLite
